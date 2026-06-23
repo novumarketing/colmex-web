@@ -5,7 +5,7 @@ export const EMAIL = "contacto@colmextul.edu.mx";
 export const ADDRESS = "Melchor Ocampo Norte 603, Centro, C.P. 43600, Tulancingo de Bravo, Hidalgo";
 export const ADDRESS_SHORT = "Melchor Ocampo Norte 603, Centro · Tulancingo, Hidalgo";
 export const MAPS = "https://www.google.com/maps/search/?api=1&query=Melchor+Ocampo+Norte+603+Centro+Tulancingo+Hidalgo";
-export const FACEBOOK = "https://www.facebook.com/COLMEXInternacional";
+export const FACEBOOK = "https://www.facebook.com/201285273257862";
 export const INSTAGRAM = "https://www.instagram.com/colmexinternacional";
 
 const wa = (m: string) => "https://wa.me/527757534992?text=" + encodeURIComponent(m);
